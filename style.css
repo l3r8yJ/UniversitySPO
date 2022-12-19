@@ -1,0 +1,22 @@
+.header-ul {
+    /* border-bottom: 1px solid; */
+}
+
+li{
+    text-align: left;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu-title-li{
+    color: black;
+}
+
+ul{
+    float: left;
+}
+
